@@ -124,7 +124,7 @@ const modalContent = {
     link: "https://violentkera.github.io/Parcial-2/",
   },
   Project_2: {
-    title: "Parcial 2",
+    title: "Diseno de Marca web de e-commerce",
     content:
       "Creacion de Identidad visual de marca y pagina web 🔥",
     link: "https://www.figma.com/proto/ipOzpse0snZesFoSZeRi7I/Figmerinho-Capucinho?node-id=0-1",
