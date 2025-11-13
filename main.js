@@ -118,7 +118,7 @@ const secondIconTwo = document.querySelector(".second-icon-two");
 // Modal stuff
 const modalContent = {
   Project_1: {
-    title: "Parcial 1",
+    title: "Parcial 2",
     content:
       "Aplicacion de modelos 3d a pagina web🥰",
     link: "https://violentkera.github.io/Parcial-2/",
@@ -127,24 +127,24 @@ const modalContent = {
     title: "Parcial 2",
     content:
       "Creacion de Identidad visual de marca y pagina web 🔥",
-    link: "https://www.figma.com/design/ipOzpse0snZesFoSZeRi7I/Figmerinho-Capucinho?node-id=0-1&t=vPGBasRQshYqBht5-1",
+    link: "https://www.figma.com/proto/ipOzpse0snZesFoSZeRi7I/Figmerinho-Capucinho?node-id=0-1",
   },
   Project_3: {
     title: "Trabajo 3",
     content:
-      "Produccion de cortometraje de video ",
+      "Produccion de cortometraje de video para taller de video y fotografia 🔥 ",
     link: "https://www.youtube.com/watch?v=BHSFwu9Ox2g",
   },
   Chest: {
-    title: "💁 Hoja de vida",
+    title: "💁 Cofre",
     content:
-      "Mi hoja de vida ",
+      "Encontraste Mi hoja de vida 💁 ",
       link: "https://drive.google.com/file/d/1n0SwLODNUUmh0L0w2MbCpl9jBDnhqM3u/view?usp=sharing"
   },
   Picnic: {
     title: "🍷 Cosas que me gustan",
     content:
-      " 1. Estar con mi novia ❤️ - 2. Estar en el computador 💻 - 3. Estar en el celular viendo videos 📱 - 4. Salir en moto 🛵",
+      " Tengo varios pasatiempos que me hacen muy feliz, pero mis favoritos son estar con mi novia y jugar videojuegos con mis amigos. Me encanta pasar tiempo con mi novia ❤️. Ambos nos reímos mucho, salimos a comer a cualquier lugar o simplemente hablamos de las cosas que nos pasaron en el día. Es algo que me relaja y me hace pasar un momento realmente agradable. Por otra parte, me apasiona estar en el computador 💻, especialmente jugando videojuegos. Lo hago desde que era niño y me encantan las risas que comparto con mis amigos mientras jugamos Valorant, Roblox o cualquier otro juego que se nos ocurra. Cuando no estoy haciendo eso, también disfruto relajarme viendo videos en el celular 📱 o salir a dar una vuelta en mi moto 🛵.",
   },
 };
 
