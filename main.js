@@ -146,6 +146,19 @@ const modalContent = {
     content:
       " Tengo varios pasatiempos que me hacen muy feliz, pero mis favoritos son estar con mi novia y jugar videojuegos con mis amigos. Me encanta pasar tiempo con mi novia ❤️. Ambos nos reímos mucho, salimos a comer a cualquier lugar o simplemente hablamos de las cosas que nos pasaron en el día. Es algo que me relaja y me hace pasar un momento realmente agradable. Por otra parte, me apasiona estar en el computador 💻, especialmente jugando videojuegos. Lo hago desde que era niño y me encantan las risas que comparto con mis amigos mientras jugamos Valorant, Roblox o cualquier otro juego que se nos ocurra. Cuando no estoy haciendo eso, también disfruto relajarme viendo videos en el celular 📱 o salir a dar una vuelta en mi moto 🛵.",
   },
+Skills: {
+  title: "🛠️ Habilidades",
+  content:
+    "• Manejo de software de diseño gráfico como Adobe Photoshop, Illustrator y Figma para crear diseños atractivos y funcionales. • Conocimientos en desarrollo web utilizando HTML, CSS y JavaScript para construir sitios web interactivos y responsivos. • Habilidades en modelado 3D utilizando herramientas como Blender para crear gráficos. • Capacidad para trabajar en equipo y colaborar con otros diseñadores y desarrolladores para lograr objetivos comunes. • Creatividad y atención al detalle para producir trabajos de alta calidad que cumplan con los requisitos del cliente. • Ingles fluido😁",
+},
+Education: {
+  title: "🎓 Educación",
+  content: "• Colegio Fray Damian Gonzalez • Actualmente - Universidad San Buenaventura Cali - Ing Multimedia - Mercadeo y Negocios Internacionales",
+},
+Merits: {
+  title: "🏆 Méritos",
+  content: "• No hay mucho por el momento😥 ",
+},
 };
 
 function showModal(id) {
@@ -193,6 +206,9 @@ const intersectObjectsNames = [
   "Charmander",
   "Snorlax",
   "Chest",
+  "Skills",
+  "Education",
+  "Merits"
 ];
 
 // Loading screen and loading manager
